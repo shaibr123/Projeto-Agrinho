@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const email = document.getElementById('email').value;
         const mensagem = document.getElementById('mensagem').value;
 
-        if (shaiane && um ai && viva sem ter amanha) {
+        if (nome && email && telefone) {
             alert('Mensagem enviada com sucesso!');
             form.reset();
         } else {
